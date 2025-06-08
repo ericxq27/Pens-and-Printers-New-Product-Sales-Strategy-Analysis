@@ -44,20 +44,14 @@ The dataset used, `product_sales.csv`, contains sales records for the first six 
 #### Significant Disparity in Revenue Performance Across Strategies
 The "Email & Call" combination yields the highest average revenue, whereas the "Email" strategy, despite its broad reach, results in the lowest average revenue.
 
-![Revenue Distribution by Sales Method](https://i.imgur.com/example-revenue-boxplot.png)
-*(Note: This is a placeholder image link. Please replace it with your generated `plot_2_2c_revenue_by_method_boxplot.png`)*
+![Revenue Distribution by Sales Method](https://github.com/ericxq27/Pens-and-Printers-New-Product-Sales-Strategy-Analysis/blob/main/Images/Revenue%20Distribution%20by%20Sales%20Method.png)
 
 #### "Email & Call" Strategy Shows the Greatest Growth Potential
-Over the 6-week period, the "Email & Call" strategy demonstrated the most robust and consistent growth in average weekly revenue.
+Over the 6-week period, the "Email & Call" strategy demonstrated the most robust and consistent growth in average weekly revenue, even though it only reaches a small percentage of customers.
 
-![Average Weekly Revenue by Sales Method](https://i.imgur.com/example-revenue-timeline.png)
-*(Note: This is a placeholder image link. Please replace it with your generated `plot_2_3_revenue_over_time.png`)*
+![Average Weekly Revenue by Sales Method](https://github.com/ericxq27/Pens-and-Printers-New-Product-Sales-Strategy-Analysis/blob/main/Images/Average%20Weekly%20Revenue%20by%20Sales%20Method.png)
+![Number of Customers by Sales Method](https://github.com/ericxq27/Pens-and-Printers-New-Product-Sales-Strategy-Analysis/blob/main/Images/Number%20of%20Customers%20by%20Sales%20Method.png)
 
-#### Different Strategies Attract Different Customer Types
-The "Call" only method tends to engage more established, long-term customers, while the "Email & Call" approach appears to be effective across a broader customer base.
-
-![Years as Customer by Sales Method](https://i.imgur.com/example-customer-years.png)
-*(Note: This is a placeholder image link. Please replace it with your generated `plot_2_4a_years_as_customer_by_method.png`)*
 
 ## 6. Summary of Recommendations
 
